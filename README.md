@@ -48,5 +48,5 @@
 
 ✨ *"Learning today to innovate tomorrow."*  
 ## 🐍 Contribution Graph
+![snake gif](https://raw.githubusercontent.com/samantaaritra/samantaaritra/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/samantaaritra/samantaaritra/blob/output/github-contribution-grid-snake.svg)
